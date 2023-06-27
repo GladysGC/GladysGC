@@ -2,7 +2,7 @@
 <br>
 <p align="center"  >
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Soy+Gladys+Guanin;Desarrolladora%20Web%20Full-Stack%20&center=true&width=500&height=50&font=arial&color=Fc85a2&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Soy+Gladys+Guanin;Desarrolladora%20Web%20Full-Stack%20&center=true&width=600&height=100&font=arial&color=Fc85a2&size=40">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
  ¡Gracias por visitarme y me encantaría conectarme!
 
-### :space_invader: &nbsp; Acerca de mí.
+### 👉 &nbsp; Acerca de mí.
 
 &nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Atualmento estoy cursando un bootcam en FactoriaF5 \
 &nbsp;&nbsp;&nbsp;&emsp;:seedling: &nbsp;Amor por la ciencia y la innovación.\
@@ -29,22 +29,38 @@
  
   </p>
 
-### :space_invader: &nbsp; Tecnologías
-<p>
-  &emsp;&emsp; <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-    <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="24px" height="24px"/>&emsp;&emsp;
-   <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="24px" height="24px"/>&emsp;&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>&emsp;&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>&emsp;&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="24px" height="24px"/>&emsp;&emsp;
-  <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>&emsp;&emsp;
-  
+### 👉 &nbsp; Tecnologías
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  &emsp;&emsp; <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&emsp;&emsp;
+    <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&emsp;&emsp;    
+    <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> &emsp;&emsp;
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&emsp;&emsp;
+   <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30px" height="30px"/>&emsp;&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30px" height="30px"/>&emsp;&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30px" height="30px"/>&emsp;&emsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&emsp;&emsp;
+  <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30px" height="30px"/>&emsp;&emsp;
+  <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30px" height="30px"/>&emsp;&emsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+
 </p>
+<p align="center">
+ 
+ <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p> 
 <br>
- ### Estadísticas de GitHub   
 
+ ###  👉&nbsp; Estadísticas de GitHub   
+
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GladysGC&show_icons=true&locale=en&layout=compact" alt="GladysGC" /> </p>
+
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=GladysGC&show_icons=true&locale=en" alt="GladysGC" />  </p> 
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GladysGC&" alt="GladysGC" />  </p>
 
   
 
@@ -52,6 +68,10 @@
 
 
 
+<p align="center">
+	
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Construido+con+mucha+pación&width=500&height=50&font=arial&color=Fc85a2&size=20">
+</p>
 
 
 <!--
