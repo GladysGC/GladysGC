@@ -11,7 +11,7 @@
 </h2>
 <hr>
 
- Soy una entusiasta desarrollador web fullstack con una pasión por explorar y dominar nuevas tecnologías en el sector de TI. Siempre estoy en busca de oportunidades para expandir mis habilidades y conocimientos, manteniéndome actualizada en las últimas tendencias y mejores prácticas del desarrollo web. Con experiencia en el desarrollo de software y aplicaciones web, he trabajado con una variedad de lenguajes de programación, frameworks y herramientas.
+ Soy una entusiasta desarrollador web Full Stack con una pasión por explorar y dominar nuevas tecnologías en el sector de TI. Siempre estoy en busca de oportunidades para expandir mis habilidades y conocimientos, manteniéndome actualizada en las últimas tendencias y mejores prácticas del desarrollo web. Con experiencia en el desarrollo de software y aplicaciones web, he trabajado con una variedad de lenguajes de programación, frameworks y herramientas.
 
  ¡Gracias por visitarme y me encantaría conectarme!
 
