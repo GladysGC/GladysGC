@@ -14,6 +14,8 @@
 Soy una entusiasta desarrolladora web Full Stack con una pasión por explorar y dominar nuevas tecnologías en el sector de TI. Siempre estoy en busca de oportunidades para expandir mis habilidades y conocimientos, manteniéndome actualizada en las últimas tendencias y mejores prácticas del desarrollo web.
 
 Con experiencia en el desarrollo de software y aplicaciones web, he trabajado con una variedad de lenguajes de programación, frameworks y herramientas. Actualmente, estoy ampliando mis conocimientos en ciberseguridad para proteger aplicaciones y datos, y en AWS re/Start Cloud para diseñar y gestionar soluciones en la nube de manera eficiente.
+
+En continua formación  📖 🖥️ 
  
 ¡Gracias por visitar mi perfil! Me encantaría conectar contigo.
 
