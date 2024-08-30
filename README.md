@@ -38,14 +38,13 @@ Con experiencia en el desarrollo de software y aplicaciones web, he trabajado co
     <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&emsp;&emsp;    
     <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> &emsp;&emsp;
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&emsp;&emsp;
-   <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30px" height="30px"/>&emsp;&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30px" height="30px"/>&emsp;&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30px" height="30px"/>&emsp;&emsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&emsp;&emsp;
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30px" height="30px"/>&emsp;&emsp;
   <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30px" height="30px"/>&emsp;&emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="30px" height="30px"/>&emsp;&emsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <img width="40" alt="Screen Shot 2020-03-30 at 18 16 58" src="https://user-images.githubusercontent.com/45079819/77962806-abc85700-72b2-11ea-8ac6-8ad653a09a36.png"/>&emsp;&emsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   </a>
 
 </p>
 <p align="center">
@@ -54,6 +53,7 @@ Con experiencia en el desarrollo de software y aplicaciones web, he trabajado co
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+ <img width="70" src= "https://img.shields.io/badge/-LARAVEL-red?style=for-the-badge&logo=laravel&logoColor=white">
 </p> 
 <br>
 
