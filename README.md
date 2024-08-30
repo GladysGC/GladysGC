@@ -1,4 +1,4 @@
-# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Encantada de conocerte.:blush:
+# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Encantada de conocerte. :blush: 
 <br>
 <p align="center"  >
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,20 +7,22 @@
 </p>
 
 <h2 align="left" >
-¡Bienvenido a mi perfil! 👋 💻
+¡Bienvenidos a mi perfil.! 👋 💻
 </h2>
 <hr>
 
- Soy una entusiasta desarrollador web Full Stack con una pasión por explorar y dominar nuevas tecnologías en el sector de TI. Siempre estoy en busca de oportunidades para expandir mis habilidades y conocimientos, manteniéndome actualizada en las últimas tendencias y mejores prácticas del desarrollo web. Con experiencia en el desarrollo de software y aplicaciones web, he trabajado con una variedad de lenguajes de programación, frameworks y herramientas.
+Soy una entusiasta desarrolladora web Full Stack con una pasión por explorar y dominar nuevas tecnologías en el sector de TI. Siempre estoy en busca de oportunidades para expandir mis habilidades y conocimientos, manteniéndome actualizada en las últimas tendencias y mejores prácticas del desarrollo web.
 
- ¡Gracias por visitarme y me encantaría conectarme!
+Con experiencia en el desarrollo de software y aplicaciones web, he trabajado con una variedad de lenguajes de programación, frameworks y herramientas. Actualmente, estoy ampliando mis conocimientos en ciberseguridad para proteger aplicaciones y datos, y en AWS re/Start Cloud para diseñar y gestionar soluciones en la nube de manera eficiente.
+ 
+¡Gracias por visitar mi perfil! Me encantaría conectar contigo.
 
 ### 👉 &nbsp; Acerca de mí.
 
-&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Atualmento estoy cursando un bootcam en FactoriaF5 \
-&nbsp;&nbsp;&nbsp;&emsp;:seedling: &nbsp;Amor por la ciencia y la innovación.\
-&nbsp;&nbsp;&nbsp;&emsp;:heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias..\
-&nbsp;&nbsp;&nbsp;&emsp;:family_man_woman_girl_girl: &nbsp;Vivo en Madrid con mi preciosa hija.
+&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Actualmente estoy preparándome para obtener la certificación AWS Certified Cloud Practitioner.\
+&nbsp;&nbsp;&nbsp;&emsp; :seedling: &nbsp;Amor por la ciencia y la innovación.\
+&nbsp;&nbsp;&nbsp;&emsp; :heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
+&nbsp;&nbsp;&nbsp;&emsp; :family_man_woman_girl_girl: &nbsp;Vivo en Madrid con mi preciosa hija.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gladys-guanín-criollo-36ba80b7/" target="_blank">
@@ -42,6 +44,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&emsp;&emsp;
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30px" height="30px"/>&emsp;&emsp;
   <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30px" height="30px"/>&emsp;&emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="30px" height="30px"/>&emsp;&emsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
 </p>
@@ -70,7 +73,7 @@
 
 <p align="center">
 	
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Construido+con+mucha+pación&width=500&height=50&font=arial&color=Fc85a2&size=20">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Construido+con+mucha+pasión&width=500&height=50&font=arial&color=Fc85a2&size=20">
 </p>
 
 
