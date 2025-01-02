@@ -21,10 +21,9 @@ En continua formación  📖 🖥️
 
 ### 👉 &nbsp; Acerca de mí.
 
-&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Actualmente estoy preparándome para obtener la certificación AWS Certified Cloud Practitioner.\
+&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Actualmente trabajo como administrativa en la Fundación El Buen Samaritano, esperando una oportunidad para aplicar lo aprendido en los últimos dos años.\
 &nbsp;&nbsp;&nbsp;&emsp; :seedling: &nbsp;Amor por la ciencia y la innovación.\
 &nbsp;&nbsp;&nbsp;&emsp; :heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
-&nbsp;&nbsp;&nbsp;&emsp; :family_man_woman_girl_girl: &nbsp;Vivo en Madrid con mi preciosa hija.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gladys-guanín-criollo-36ba80b7/" target="_blank">
