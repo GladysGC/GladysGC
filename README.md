@@ -65,7 +65,7 @@ En continua formación  📖 🖥️
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=GladysGC&show_icons=true&locale=en" alt="GladysGC" />  </p> 
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GladysGC&" alt="GladysGC" />  </p>
+
 
   
 
@@ -74,8 +74,9 @@ En continua formación  📖 🖥️
 
 
 <p align="center">
-	
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Construido+con+mucha+pasión&width=500&height=50&font=arial&color=Fc85a2&size=20">
+  
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Construido+con+mucha+pasión&font=Arial&color=FC85A2" alt="Typing SVG">
+
 </p>
 
 
