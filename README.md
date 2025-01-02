@@ -13,7 +13,7 @@
 
 Soy una entusiasta desarrolladora web Full Stack con una pasión por explorar y dominar nuevas tecnologías en el sector de TI. Siempre estoy en busca de oportunidades para expandir mis habilidades y conocimientos, manteniéndome actualizada en las últimas tendencias y mejores prácticas del desarrollo web.
 
-Con experiencia en el desarrollo de software y aplicaciones web, he trabajado con una variedad de lenguajes de programación, frameworks y herramientas. Actualmente, estoy ampliando mis conocimientos en ciberseguridad para proteger aplicaciones y datos, y en AWS re/Start Cloud para diseñar y gestionar soluciones en la nube de manera eficiente.
+Con experiencia en desarrollo de software y aplicaciones web, manejo diversos lenguajes de programación, frameworks y herramientas. Además, he ampliado mis conocimientos en ciberseguridad y cloud, fortaleciendo mi perfil profesional.
 
 En continua formación  📖 🖥️ 
  
@@ -21,9 +21,10 @@ En continua formación  📖 🖥️
 
 ### 👉 &nbsp; Acerca de mí.
 
-&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Actualmente trabajo como administrativa en la Fundación El Buen Samaritano, esperando una oportunidad para aplicar lo aprendido en los últimos dos años.\
+&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Durante los últimos dos años, me he enfocado en fortalecer mis habilidades en diversas tecnologías.\
+&nbsp;&nbsp;&nbsp;&emsp; :technologist: &nbsp;Busco oportunidades para aplicar mis conocimientos y contribuir al desarrollo de soluciones innovadoras.\
 &nbsp;&nbsp;&nbsp;&emsp; :seedling: &nbsp;Amor por la ciencia y la innovación.\
-&nbsp;&nbsp;&nbsp;&emsp; :heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
+&nbsp;&nbsp;&nbsp;&emsp; :heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gladys-guanín-criollo-36ba80b7/" target="_blank">
